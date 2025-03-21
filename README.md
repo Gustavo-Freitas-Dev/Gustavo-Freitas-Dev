@@ -13,7 +13,7 @@ Aqui estão algumas das ferramentas que uso no meu dia a dia para transformar id
 - **Python** 🐍 – A base para minhas soluções de automação e web scraping
 - **Selenium** & **BeautifulSoup** – Para extrair dados de qualquer site de forma eficiente
 - **Streamlit** & **Flet** – Para criar interfaces de usuário rápidas e intuitivas
-- **Git** & **GitHub** – Para versionamento de código e colaboração em projetos
+- **GitHub** – Para versionamento de código e colaboração em projetos
 
 ## 📈 Projetos em Destaque
 - **Web Scraping Mercado Livre**: extrair automaticamente dados de produtos, preços e informações de vendedores das páginas do Mercado Livre.
