@@ -19,7 +19,7 @@ Aqui estão algumas das ferramentas que uso no meu dia a dia para transformar id
 - **Web Scraping Mercado Livre**: extrair automaticamente dados de produtos, preços e informações de vendedores das páginas do Mercado Livre.
 
 ## 📫 Como me encontrar
-- **LinkedIn**: [Gustavo Luís](https://www.linkedin.com/in/gustavo-lu%C3%ADs-50448b234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+- **LinkedIn**: [Gustavo Luís] (https://www.linkedin.com/in/gustavo-freitas-dev)
 - **Email**: gustavoluis2163k@gmail.com
 - **GitHub**: [Gustavo-Freitas-Dev](https://github.com/Gustavo-Freitas-Dev)
 
